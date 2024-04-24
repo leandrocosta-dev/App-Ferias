@@ -24,7 +24,7 @@ Este é um aplicativo de gestão de férias para funcionários, construído com 
 #### Controle de acesso com checagem de senha.
 ![image](https://github.com/leandrocosta-dev/App-Ferias/assets/102483801/a5c25577-f2a6-4a33-81ee-fe6fea461ddb)
 
-#### Tela inicial do App após o login, com os botões de acesso à gstão de usuarios!
+#### Tela inicial do App após o login, com os botões de acesso à gestão de usuarios!
 ![image](https://github.com/leandrocosta-dev/App-Ferias/assets/102483801/e6f176b9-af46-480b-a0df-84da311a2c42)
 
 #### Tela de Gestão dos usuários
